@@ -1,0 +1,2 @@
+# paginaClase
+informacion de bmth
